@@ -1,0 +1,22 @@
+{
+  "name": "sample-chartjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kannkyo/sample-chartjs.git"
+  },
+  "author": "kannkyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kannkyo/sample-chartjs/issues"
+  },
+  "homepage": "https://github.com/kannkyo/sample-chartjs#readme",
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  }
+}
